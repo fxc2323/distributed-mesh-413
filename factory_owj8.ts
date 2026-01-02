@@ -1,0 +1,1 @@
+const service_owj8 = <T>(args: T): T => { return args; };
